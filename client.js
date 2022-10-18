@@ -112,7 +112,6 @@ function maior_prefixo_comum(lista){
                 }
             }
         }
-        
         if (check.length > palavra.length) {
             palavra = check;
         }
